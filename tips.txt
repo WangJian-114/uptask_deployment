@@ -1,0 +1,36 @@
+Siempre cuando vayas crear una nuevo ruta
+
+1. agregarlo en el ROUTES
+2. definir la parte del controlador
+3. y agregarla vista
+
+Para acceder la ruta hay que requerir paquete path
+
+
+Cambiar password de MySQL
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root';
+FLUSH PRIVILEGES;
+
+
+C:\ProgramData\MySQL
+
+
+Paquete para filtrar datos de entrada
+npm install --save express-validator
+
+Para generar url unico
+npm install --save slug
+
+npm install shortid
+
+
+Para alerta
+npm install --save axios sweetalert2
+
+
+
+
+cryto (no hay que instalarlo) para generar token
+
+email
+npm install --save nodemailer juice html-to-text
